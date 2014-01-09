@@ -1,0 +1,11 @@
+*.swp
+*~
+*.py[co]
+
+.svn
+tmp
+images
+
+x.*
+y.*
+zold
